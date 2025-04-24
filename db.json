@@ -1,46 +1,65 @@
 {
   "plants": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Aloe",
       "image": "./images/aloe.jpg",
       "price": 15.99
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
       "price": 25.98
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
       "price": 5.99
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Pothos",
       "image": "./images/pothos.jpg",
       "price": 12.11
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Jade",
       "image": "./images/jade.jpg",
       "price": 10.37
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
       "price": 25.99
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": "0f8e",
+      "name": "tomato",
+      "image": "https://imgs.search.brave.com/7jI8sz5h0HsurVsa_X8ze-z5gaGk_ZeawtD7jM0ILoc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNDcx/Mzg5MDExL3Bob3Rv/L2NoZXJyeS10b21h/dG9lcy5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9QlJXc18t/ZVZGaHQ4VWZOc0s5/MWtaVXJEdFI2MnRP/SkFtc3VpZ2J3R0di/ST0",
+      "price": 49
+    },
+    {
+      "id": "b515",
+      "name": "pine",
+      "image": "https://imgs.search.brave.com/qisOrU4JfTfR2WwX81c0z9PMR6DMczRJDgB5tS51DTM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTg2/ODMxMTA4L3Bob3Rv/L3BpbmUtdHJlZS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/TXpmSTVwdF9mNDF4/Y0pIUUlyNkZESFVy/bHBTR19BQnpYOGkz/aHZGdlpVTT0",
+      "price": 59
+    },
+    {
+      "id": "7652",
+      "name": "pine",
+      "image": "https://imgs.search.brave.com/qisOrU4JfTfR2WwX81c0z9PMR6DMczRJDgB5tS51DTM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTg2/ODMxMTA4L3Bob3Rv/L3BpbmUtdHJlZS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/TXpmSTVwdF9mNDF4/Y0pIUUlyNkZESFVy/bHBTR19BQnpYOGkz/aHZGdlpVTT0",
+      "price": 40
     }
+    
   ]
 }

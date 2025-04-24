@@ -7,6 +7,7 @@ function Header() {
         Plantsy
         <span className="logo" role="img">
           🌱
+
         </span>
       </h1>
     </header>
